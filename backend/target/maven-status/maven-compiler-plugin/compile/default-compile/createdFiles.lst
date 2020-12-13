@@ -1,0 +1,13 @@
+com/dingtalk/h5app/quickstart/controller/AuthController.class
+com/dingtalk/h5app/quickstart/config/AppConfig.class
+com/dingtalk/h5app/quickstart/domain/UserDTO.class
+com/dingtalk/h5app/quickstart/exception/DingtalkEncryptException.class
+com/dingtalk/h5app/quickstart/Application.class
+com/dingtalk/h5app/quickstart/domain/ServiceResult.class
+com/dingtalk/h5app/quickstart/domain/DepartmentDTO.class
+com/dingtalk/h5app/quickstart/service/TokenService.class
+com/dingtalk/h5app/quickstart/controller/ContactController.class
+com/dingtalk/h5app/quickstart/config/UrlConstant.class
+com/dingtalk/h5app/quickstart/util/FileUtil.class
+com/dingtalk/h5app/quickstart/util/JsApiSignature.class
+com/dingtalk/h5app/quickstart/domain/ConfigDTO.class

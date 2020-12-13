@@ -1,0 +1,13 @@
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/Application.java
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/controller/ContactController.java
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/domain/DepartmentDTO.java
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/domain/ConfigDTO.java
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/domain/ServiceResult.java
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/service/TokenService.java
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/domain/UserDTO.java
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/exception/DingtalkEncryptException.java
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/config/UrlConstant.java
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/config/AppConfig.java
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/util/JsApiSignature.java
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/util/FileUtil.java
+/Users/newstar/h5app-corp-quickstart/backend/src/main/java/com/dingtalk/h5app/quickstart/controller/AuthController.java
